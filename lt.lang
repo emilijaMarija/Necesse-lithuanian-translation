@@ -253,8 +253,8 @@ MISSING_TRANSLATION:cryptwall=Crypt Wall
 MISSING_TRANSLATION:cryptdoor=Crypt Door
 MISSING_TRANSLATION:cryptdoorlocked=Locked Crypt Door
 MISSING_TRANSLATION:spidercastlewall=Spider Castle Wall
-MISSING_TRANSLATION:spidercastLedoor=Spider Castle Door
-MISSING_TRANSLATION:spidercastLedoorlocked=Locked Spider Castle Door
+MISSING_TRANSLATION:spidercastledoor=Spider Castle Door
+MISSING_TRANSLATION:spidercastledoorlocked=Locked Spider Castle Door
 MISSING_TRANSLATION:dawnwall=Dawn Wall
 MISSING_TRANSLATION:dawndoor=Dawn Door
 MISSING_TRANSLATION:dawndoorlocked=Locked Dawn Door
@@ -339,6 +339,8 @@ MISSING_TRANSLATION:woodencandleset=Wooden Candle Set
 MISSING_TRANSLATION:swampcandlestand=Swamp Candle Stand
 MISSING_TRANSLATION:swampcandlestandduo=Swamp Candle Stand Duo
 MISSING_TRANSLATION:brazier=Brazier
+
+// Paintings
 MISSING_TRANSLATION:paintingbroken=Broken Painting
 MISSING_TRANSLATION:paintingapple=Apple Painting
 MISSING_TRANSLATION:paintingavocado=Avocado Painting
@@ -363,6 +365,8 @@ MISSING_TRANSLATION:paintinglargeabstract=Large Abstract Painting
 MISSING_TRANSLATION:paintingelder=Wise Painting
 MISSING_TRANSLATION:paintingcooljonas=Cool Painting
 MISSING_TRANSLATION:paintingposter=Happy Poster
+
+// Statues
 MISSING_TRANSLATION:mossymonkstatue=Moss Covered Monk Statue
 MISSING_TRANSLATION:angelicstatue=Angelic Statue
 MISSING_TRANSLATION:hoodedknightstatue=Hooded Knight Statue
@@ -529,6 +533,8 @@ palmcandelabra=Palmių Žvakidė
 palmdisplay=Palmių Lentyna
 palmbathtub=Palmių Vonia
 palmtoilet=Palmių Tualetas
+
+// Willow
 MISSING_TRANSLATION:willowchest=Willow Chest
 MISSING_TRANSLATION:willowdinnertable=Willow Dinner Table
 MISSING_TRANSLATION:willowdesk=Willow Desk
@@ -545,6 +551,8 @@ MISSING_TRANSLATION:willowcandelabra=Willow Candelabra
 MISSING_TRANSLATION:willowdisplay=Willow Display
 MISSING_TRANSLATION:willowbathtub=Willow Bathtub
 MISSING_TRANSLATION:willowtoilet=Willow Toilet
+
+// Maple
 MISSING_TRANSLATION:maplechest=Maple Chest
 MISSING_TRANSLATION:mapledinnertable=Maple Dinner Table
 MISSING_TRANSLATION:mapledesk=Maple Desk
@@ -554,13 +562,15 @@ MISSING_TRANSLATION:maplebench=Maple Bench
 MISSING_TRANSLATION:maplebookshelf=Maple Bookshelf
 MISSING_TRANSLATION:maplecabinet=Maple Cabinet
 MISSING_TRANSLATION:maplebed=Maple Bed
-MISSING_TRANSLATION:mapLedoublebed=Maple Double Bed
+MISSING_TRANSLATION:mapledoublebed=Maple Double Bed
 MISSING_TRANSLATION:mapledresser=Maple Dresser
 MISSING_TRANSLATION:mapleclock=Maple Clock
 MISSING_TRANSLATION:maplecandelabra=Maple Candelabra
 MISSING_TRANSLATION:mapledisplay=Maple Display
 MISSING_TRANSLATION:maplebathtub=Maple Bathtub
 MISSING_TRANSLATION:mapletoilet=Maple Toilet
+
+// Birch
 MISSING_TRANSLATION:birchchest=Birch Chest
 MISSING_TRANSLATION:birchdinnertable=Birch Dinner Table
 MISSING_TRANSLATION:birchdesk=Birch Desk
@@ -595,6 +605,8 @@ dungeoncandelabra=Požemio Žvakidė
 dungeondisplay=Požemio Lentyna
 dungeonbathtub=Požemio Vonia
 dungeontoilet=Požemio Tualetas
+
+// Bone
 MISSING_TRANSLATION:bonechest=Bone Chest
 MISSING_TRANSLATION:bonedinnertable=Bone Dinner Table
 MISSING_TRANSLATION:bonedesk=Bone Desk
@@ -611,6 +623,8 @@ MISSING_TRANSLATION:bonecandelabra=Bone Candelabra
 MISSING_TRANSLATION:bonedisplay=Bone Display
 MISSING_TRANSLATION:bonebathtub=Bone Bathtub
 MISSING_TRANSLATION:bonetoilet=Bone Toilet
+
+// Dryad
 MISSING_TRANSLATION:dryadchest=Dryad Chest
 MISSING_TRANSLATION:dryaddinnertable=Dryad Dinner Table
 MISSING_TRANSLATION:dryaddesk=Dryad Desk
@@ -627,6 +641,8 @@ MISSING_TRANSLATION:dryadcandelabra=Dryad Candelabra
 MISSING_TRANSLATION:dryaddisplay=Dryad Display
 MISSING_TRANSLATION:dryadbathtub=Dryad Bathtub
 MISSING_TRANSLATION:dryadtoilet=Dryad Toilet
+
+// Bamboo
 MISSING_TRANSLATION:bamboochest=Bamboo Chest
 MISSING_TRANSLATION:bamboodinnertable=Bamboo Dinner Table
 MISSING_TRANSLATION:bamboodesk=Bamboo Desk
@@ -643,6 +659,8 @@ MISSING_TRANSLATION:bamboocandelabra=Bamboo Candelabra
 MISSING_TRANSLATION:bamboodisplay=Bamboo Display
 MISSING_TRANSLATION:bamboobathtub=Bamboo Bathtub
 MISSING_TRANSLATION:bambootoilet=Bamboo Toilet
+
+// Deadwood
 MISSING_TRANSLATION:deadwoodchest=Deadwood Chest
 MISSING_TRANSLATION:deadwooddinnertable=Deadwood Dinner Table
 MISSING_TRANSLATION:deadwooddesk=Deadwood Desk
@@ -660,6 +678,8 @@ MISSING_TRANSLATION:deadwoodcandles=Deadwood Candles
 MISSING_TRANSLATION:deadwooddisplay=Deadwood Display
 MISSING_TRANSLATION:deadwoodbathtub=Deadwood Bathtub
 MISSING_TRANSLATION:deadwoodtoilet=Deadwood Toilet
+
+// Spider Castle
 MISSING_TRANSLATION:spiderthrone=Spider Throne
 MISSING_TRANSLATION:spidercastlecandelabra=Spider Castle Candelabra
 MISSING_TRANSLATION:spidercastlewallcandle=Spider Castle Wall Candle
@@ -981,8 +1001,8 @@ soundname=Garsas: <name>
 soundsemitone=Pustonis: <value>
 
 [item]
-MISSING_TRANSLATION:material=Material
 // General materials
+MISSING_TRANSLATION:material=Material
 coin=Monetos
 oaklog=Ąžuolo Rąstas
 sprucelog=Eglės Rąstas
@@ -1091,9 +1111,9 @@ MISSING_TRANSLATION:map=Map
 spareboatparts=Atliekamos Valties Dalys
 brokencoppertool=Lūžęs Varinis Įrankis
 brokenirontool=Lūžęs Geležinis Įrankis
-MISSING_TRANSLATION:pickaxe=Pickaxe
 
 // Pickaxes
+MISSING_TRANSLATION:pickaxe=Pickaxe
 woodpickaxe=Medinis Kirtiklis
 copperpickaxe=Varinis Kirtiklis
 ironpickaxe=Geležinis Kirtiklis
@@ -1107,9 +1127,9 @@ MISSING_TRANSLATION:dryadpickaxe=Dryad Pickaxe
 icepickaxe=Ledo Kirtiklis
 myceliumpickaxe=Grybienos Kirtiklis
 ancientfossilpickaxe=Senovės Fosilijos Kirtiklis
-MISSING_TRANSLATION:axe=Axe
 
 // Axes
+MISSING_TRANSLATION:axe=Axe
 woodaxe=Medinis Kirvis
 copperaxe=Varinis Kirvis
 ironaxe=Geležinis Kirvis
@@ -1122,9 +1142,9 @@ glacialaxe=Ledo Kirvis
 MISSING_TRANSLATION:dryadaxe=Dryad Axe
 myceliumaxe=Grybienos Kirvis
 ancientfossilaxe=Senovės Fosilijos Kirvis
-MISSING_TRANSLATION:shovel=Shovel
 
 // Shovels
+MISSING_TRANSLATION:shovel=Shovel
 woodshovel=Medinis Kastuvas
 coppershovel=Varinis Kastuvas
 ironshovel=Geležinis Kastuvas
@@ -1137,18 +1157,18 @@ glacialshovel=Ledyno Kastuvas
 MISSING_TRANSLATION:dryadshovel=Dryad Shovel
 myceliumshovel=Grybienos Kastuvas
 ancientfossilshovel=Senovės Fosilijos Kastuvas
-MISSING_TRANSLATION:fishingrod=Fishing Rod
 
 // Fishing rods
+MISSING_TRANSLATION:fishingrod=Fishing Rod
 godrod=Dieviška Meškerė
 woodfishingrod=Medinė Meškerė
 ironfishingrod=Geležinė Meškerė
 overgrownfishingrod=Apaugusi Meškerė
 goldfishingrod=Auksinė Meškerė
 depthscatcher=Gelmių Gaudyklė
-MISSING_TRANSLATION:bait=Bait
 
 // Bait
+MISSING_TRANSLATION:bait=Bait
 godbait=Dieviškas Masalas
 wormbait=Sliekų Masalas
 swamplarva=Pelkių Lervos
@@ -1209,10 +1229,10 @@ glacialgreatsword=Ledyno Kalavijas
 MISSING_TRANSLATION:dryadgreathammer=Dryad Greathammer
 MISSING_TRANSLATION:slimegreatsword=Slime Greatsword
 MISSING_TRANSLATION:ravenwinggreatsword=Ravenwing Greatsword
-MISSING_TRANSLATION:spear=Spear
-MISSING_TRANSLATION:incursionspear=Incursion Spear
 
 // Spears
+MISSING_TRANSLATION:spear=Spear
+MISSING_TRANSLATION:incursionspear=Incursion Spear
 woodspear=Medinė Ietis
 copperpitchfork=Varinės Šakės
 copperspear=Varinė Ietis
@@ -1226,20 +1246,20 @@ vulturestalon=Grifo Iltis
 tungstenspear=Volframo Ietis
 cryospear=Krio Ietis
 MISSING_TRANSLATION:ravenbeakspear=Ravenbeak Spear
-MISSING_TRANSLATION:glaive=Glaive
-MISSING_TRANSLATION:incursionglaive=Incursion Glaive
 
 // Glaives
+MISSING_TRANSLATION:glaive=Glaive
+MISSING_TRANSLATION:incursionglaive=Incursion Glaive
 goldglaive=Auksinis Durklas
 frostglaive=Šerkšno Durklas
 quartzglaive=Kvarco Durklas
 cryoglaive=Krio Durklas
 MISSING_TRANSLATION:slimeglaive=Slime Glaive
+
+// Bows
 MISSING_TRANSLATION:rangedweapon=Ranged Weapon
 MISSING_TRANSLATION:bow=Bow
 MISSING_TRANSLATION:incursionbow=Incursion Bow
-
-// Bows
 woodbow=Medinis Lankas
 copperbow=Varinis Lankas
 ironbow=Geležinis Lankas
@@ -1255,10 +1275,10 @@ MISSING_TRANSLATION:dryadbow=Dryad Bow
 bowofdualism=Dualizmo Lankas
 antiquebow=Antikvarinis Lankas
 MISSING_TRANSLATION:arachnidwebbow=Arachnid Web Bow
-MISSING_TRANSLATION:greatbow=Greatbow
-MISSING_TRANSLATION:incursiongreatbow=Incursion Greatbow
 
 // Greatbows
+MISSING_TRANSLATION:greatbow=Greatbow
+MISSING_TRANSLATION:incursiongreatbow=Incursion Greatbow
 goldgreatbow=Auksinis Didysis Lankas
 voidgreatbow=Tuštumos Didysis Lankas
 ivygreatbow=Gebenės Didysis Lankas
@@ -1267,9 +1287,9 @@ myceliumgreatbow=Grybienos Didysis Lankas
 druidsgreatbow=Druido Didysis Lankas
 MISSING_TRANSLATION:nightpiercer=Night Piercer
 MISSING_TRANSLATION:theravensnest=The Raven's Nest
-MISSING_TRANSLATION:arrow=Arrow
 
 // Arrows
+MISSING_TRANSLATION:arrow=Arrow
 stonearrow=Akmeninė Strėlė
 firearrow=Ugninė Strėlė
 frostarrow=Šerkšno Strėlė
@@ -1278,10 +1298,10 @@ bouncingarrow=Atšokanti Strėlė
 ironarrow=Geležinė Strėlė
 bonearrow=Kaulo Strėlė
 MISSING_TRANSLATION:spideritearrow=Spiderite Arrow
-MISSING_TRANSLATION:gun=Gun
-MISSING_TRANSLATION:incursiongun=Incursion Gun
 
 // Guns
+MISSING_TRANSLATION:gun=Gun
+MISSING_TRANSLATION:incursiongun=Incursion Gun
 handgun=Pistoletas
 MISSING_TRANSLATION:sapphirerevolver=Sapphire Revolver
 webbedgun=Voratinklio Šautuvas
@@ -1297,19 +1317,19 @@ antiquerifle=Antikvarinis Šautuvas
 MISSING_TRANSLATION:shardcannon=Shard Cannon
 MISSING_TRANSLATION:snowlauncher=Snow Launcher
 MISSING_TRANSLATION:seedgun=Seed Gun
-MISSING_TRANSLATION:bullet=Bullet
 
 // Bullets
+MISSING_TRANSLATION:bullet=Bullet
 simplebullet=Paprastas Šovinys
 frostbullet=Šerkšno Šovinys
 bouncingbullet=Atšokantis Šovinys
 voidbullet=Tuštumos Šovinys
 cannonball=Patrankos Sviedinys
 MISSING_TRANSLATION:crystalbullet=Crystal Bullet
-MISSING_TRANSLATION:magicweapon=Magic Weapon
-MISSING_TRANSLATION:incursionmagicweapon=Incursion Magic Weapon
 
 // Magic weapons
+MISSING_TRANSLATION:magicweapon=Magic Weapon
+MISSING_TRANSLATION:incursionmagicweapon=Incursion Magic Weapon
 bloodbolt=Kraujo Blyksnis
 bloodvolley=Kraujo Salvė
 froststaff=Šerkšno Lazdelė
@@ -1347,10 +1367,10 @@ MISSING_TRANSLATION:emeraldstaff=Emerald Staff
 MISSING_TRANSLATION:runeboundscepter=Runebound Scepter
 MISSING_TRANSLATION:dryadbarrage=Dryad Barrage
 MISSING_TRANSLATION:thesoulstorm=The Soulstorm
-MISSING_TRANSLATION:throwingweapon=Throwing Weapon
-MISSING_TRANSLATION:incursionthrowingweapon=Incursion Throwing Weapon
 
 // Throw weapons
+MISSING_TRANSLATION:throwingweapon=Throwing Weapon
+MISSING_TRANSLATION:incursionthrowingweapon=Incursion Throwing Weapon
 MISSING_TRANSLATION:ninjastar=Ninja Star
 MISSING_TRANSLATION:icejavelin=Ice Javelin
 MISSING_TRANSLATION:woodboomerang=Wood Boomerang
@@ -1373,10 +1393,10 @@ MISSING_TRANSLATION:chefsspecial=Chef's Special
 MISSING_TRANSLATION:rollingpin=Rolling Pin
 MISSING_TRANSLATION:butcherscleaver=Butcher's Cleaver
 MISSING_TRANSLATION:snowball=Snowball
-MISSING_TRANSLATION:summonweapon=Summon Weapon
-MISSING_TRANSLATION:incursionsummonweapon=Incursion Summon Weapon
 
 // Summon weapons
+MISSING_TRANSLATION:summonweapon=Summon Weapon
+MISSING_TRANSLATION:incursionsummonweapon=Incursion Summon Weapon
 MISSING_TRANSLATION:brainonastick=Brain on a Stick
 MISSING_TRANSLATION:spiderstaff=Spider Staff
 MISSING_TRANSLATION:frostpiercer=Frost Piercer
@@ -1406,9 +1426,9 @@ MISSING_TRANSLATION:bannerofdefense=Banner of Defense
 // Misc weapons
 MISSING_TRANSLATION:forceofwind=Force of Wind
 MISSING_TRANSLATION:blinkscepter=Blink Scepter
-MISSING_TRANSLATION:trinket=Trinket
 
 // Trinkets
+MISSING_TRANSLATION:trinket=Trinket
 MISSING_TRANSLATION:ninjasmark=Ninjas Mark
 MISSING_TRANSLATION:leatherglove=Leather Glove
 MISSING_TRANSLATION:trackerboot=Tracker Boot
@@ -1514,11 +1534,11 @@ MISSING_TRANSLATION:guardianbracelet=Guardian Bracelet
 MISSING_TRANSLATION:secondwindcharm=Second Wind Charm
 MISSING_TRANSLATION:summonersbestiary=Summoner's Bestiary
 MISSING_TRANSLATION:spiritgreaves=Spirit Greaves
+
+// Armor
 MISSING_TRANSLATION:boots=Boots
 MISSING_TRANSLATION:bodyarmor=Body Armor
 MISSING_TRANSLATION:helmet=Helmet
-
-// Armor
 MISSING_TRANSLATION:leatherhood=Leather Hood
 MISSING_TRANSLATION:leathershirt=Leather Shirt
 MISSING_TRANSLATION:leatherboots=Leather Boots
@@ -1743,9 +1763,9 @@ MISSING_TRANSLATION:sailorshirt=Sailor Shirt
 MISSING_TRANSLATION:sailorshoes=Sailor Shoes
 MISSING_TRANSLATION:empressmask=Empress' Mask
 MISSING_TRANSLATION:stylishflower=Stylish Flower
-MISSING_TRANSLATION:spoiledfood=Spoiled Food
 
 // Food
+MISSING_TRANSLATION:spoiledfood=Spoiled Food
 MISSING_TRANSLATION:wheat=Wheat
 MISSING_TRANSLATION:sugarbeet=Sugar Beet
 MISSING_TRANSLATION:flour=Flour
@@ -1838,10 +1858,10 @@ MISSING_TRANSLATION:raspberrypie=Raspberry Pie
 MISSING_TRANSLATION:wildsalad=Wild Salad
 MISSING_TRANSLATION:rootsalad=Root Salad
 MISSING_TRANSLATION:cheesybeetbowl=Cheesy Beet Bowl
-MISSING_TRANSLATION:revivalpotion=Revival Potion
-MISSING_TRANSLATION:potion=Potion
 
 // Potions
+MISSING_TRANSLATION:revivalpotion=Revival Potion
+MISSING_TRANSLATION:potion=Potion
 MISSING_TRANSLATION:healthpotion=Health Potion
 MISSING_TRANSLATION:greaterhealthpotion=Greater Health Potion
 MISSING_TRANSLATION:superiorhealthpotion=Superior Health Potion
@@ -1892,13 +1912,13 @@ MISSING_TRANSLATION:portalflask=Portal Flask
 MISSING_TRANSLATION:enchantingscroll=Enchanting Scroll
 MISSING_TRANSLATION:scroll=Scroll
 MISSING_TRANSLATION:flask=Flask
+
+// Misc
 MISSING_TRANSLATION:tablet=Tablet
 MISSING_TRANSLATION:formattablet=<biome> <tablet>
 MISSING_TRANSLATION:gatewaytablet=Gateway Tablet
 MISSING_TRANSLATION:tier=Tier <tiernumber>
 MISSING_TRANSLATION:tierandincursiontype=Tier <tiernumber> <incursiontype>
-
-// Misc
 MISSING_TRANSLATION:craftingguide=Crafting Guide
 MISSING_TRANSLATION:recipebook=Recipe Book
 MISSING_TRANSLATION:voidpouch=Void Pouch
@@ -2036,6 +2056,8 @@ MISSING_TRANSLATION:anycoolingfuel=Any cooling fuel
 MISSING_TRANSLATION:anytieressence=Any tier <tier> essence
 MISSING_TRANSLATION:anywrappingpaper=Any Wrapping Paper
 MISSING_TRANSLATION:anycookedfood=Any Cooked Food
+
+// Type names
 MISSING_TRANSLATION:unknowntype=???
 
 [itemtooltip]
@@ -2115,7 +2137,7 @@ MISSING_TRANSLATION:leatherglovetip=Increases attack speed by 10%
 MISSING_TRANSLATION:trackerboottip=Increases movement speed by 10%
 MISSING_TRANSLATION:shinebelttip=Lights up the area around you
 MISSING_TRANSLATION:vampiresgift=Increases movement speed by 15%
-MISSING_TRANSLATION:regenpendant=Gives minor health regeneration
+regenpendant=Gives minor health regeneration
 MISSING_TRANSLATION:mobilitycloak=Gives great mobility out of combat
 MISSING_TRANSLATION:travelercloak=Gives land and sea mobility out of combat
 MISSING_TRANSLATION:lifeline=Restore 25% health when taking fatal damage\n5 minute cooldown
@@ -2778,6 +2800,7 @@ MISSING_TRANSLATION:seeds=Seeds
 MISSING_TRANSLATION:saplings=Saplings
 MISSING_TRANSLATION:craftingstations=Crafting Stations
 MISSING_TRANSLATION:furniture=Furniture
+
 MISSING_TRANSLATION:oak=Oak
 MISSING_TRANSLATION:spruce=Spruce
 MISSING_TRANSLATION:pine=Pine
@@ -2832,6 +2855,7 @@ MISSING_TRANSLATION:husbandry=Husbandry
 MISSING_TRANSLATION:hostile=Hostile
 MISSING_TRANSLATION:raiders=Raiders
 MISSING_TRANSLATION:bosses=Bosses
+
 
 [enchantment]
 MISSING_TRANSLATION:format=<enchantment> <item>
@@ -2948,6 +2972,7 @@ MISSING_TRANSLATION:incdamage=<mod>% damage taken
 
 MISSING_TRANSLATION:maxhealth=<mod>% max health
 MISSING_TRANSLATION:maxhealthflat=<mod> max health
+
 MISSING_TRANSLATION:maxresilience=<mod>% max resilience
 MISSING_TRANSLATION:maxresilienceflat=<mod> max resilience
 MISSING_TRANSLATION:resiliencegain=<mod>% resilience gain
@@ -2955,14 +2980,18 @@ MISSING_TRANSLATION:resiliencedecay=<mod>% resilience decay
 MISSING_TRANSLATION:resiliencedecayflat=<mod> resilience decay
 MISSING_TRANSLATION:resilienceregen=<mod>% resilience regen
 MISSING_TRANSLATION:resilienceregenflat=<mod> resilience regen
+
 MISSING_TRANSLATION:maxmana=<mod>% max mana
 MISSING_TRANSLATION:maxmanaflat=<mod> max mana
-lifeessencegain=<mod>% life essence gain
+
+MISSING_TRANSLATION:lifeessencegain=<mod>% life essence gain
 MISSING_TRANSLATION:lifeessenceduration=<mod>% life essence duration
+
 MISSING_TRANSLATION:basehealthregen=<mod>% out of combat health regen
 MISSING_TRANSLATION:basehealthregenflat=<mod> out of combat health regen
 MISSING_TRANSLATION:combathealthregen=<mod>% health regen
 MISSING_TRANSLATION:combathealthregenflat=<mod> health regen
+
 MISSING_TRANSLATION:basemanaregen=<mod>% out of combat mana regen
 MISSING_TRANSLATION:basemanaregenflat=<mod> out of combat mana regen
 MISSING_TRANSLATION:combatmanaregen=<mod>% mana regen
@@ -3004,6 +3033,7 @@ MISSING_TRANSLATION:attackmovement=<mod>% attack movement penalty
 MISSING_TRANSLATION:projectilevel=<mod>% projectile velocity
 MISSING_TRANSLATION:throwingvel=<mod>% throwing velocity
 MISSING_TRANSLATION:projectilebounce=<mod> projectile bounces
+
 MISSING_TRANSLATION:blindness=<mod>% blindness
 
 MISSING_TRANSLATION:dashstacks=<mod> dash stacks
@@ -3013,6 +3043,7 @@ MISSING_TRANSLATION:dashcooldownflat=<mod>s dash cooldown
 MISSING_TRANSLATION:staminacap=<mod>% stamina capacity
 MISSING_TRANSLATION:staminausage=<mod>% stamina usage
 staminaregen=<mod>% stamina regeneration
+
 MISSING_TRANSLATION:potionduration=<mod>% potion duration
 
 MISSING_TRANSLATION:traveldistance=<mod> travel distance
@@ -3037,6 +3068,7 @@ MISSING_TRANSLATION:grounded=Grounded
 MISSING_TRANSLATION:targetrange=<mod>% target range
 MISSING_TRANSLATION:chaserrange=<mod>% chaser range
 MISSING_TRANSLATION:canbreakobjects=Can break objects
+
 MISSING_TRANSLATION:loot=<mod>% loot
 MISSING_TRANSLATION:enemydamage=<mod>% enemy damage
 MISSING_TRANSLATION:enemyspeed=<mod>% enemy speed
@@ -3096,6 +3128,7 @@ MISSING_TRANSLATION:swampstonecaveling=Swamp Stone Caveling
 MISSING_TRANSLATION:deepswampstonecaveling=Deep Swamp Stone Caveling
 MISSING_TRANSLATION:sandstonecaveling=Sand Stone Caveling
 MISSING_TRANSLATION:deepsandstonecaveling=Deep Sand Stone Caveling
+
 MISSING_TRANSLATION:flameling=Flameling
 
 // Humans
@@ -3135,6 +3168,8 @@ MISSING_TRANSLATION:traderhuman=Trader
 MISSING_TRANSLATION:traderhumanname=<name> the Trader
 MISSING_TRANSLATION:exoticmerchanthuman=Exotic Merchant
 MISSING_TRANSLATION:exoticmerchanthumanname=<name> the Exotic Merchant
+
+// Neutral Settlers
 MISSING_TRANSLATION:friendlywitchhuman=Friendly Witch
 MISSING_TRANSLATION:friendlywitchhumanname=<name> the Friendly Witch
 
@@ -3211,6 +3246,8 @@ MISSING_TRANSLATION:dryadsentinel=Dryad Sentinel
 MISSING_TRANSLATION:spiritghoul=Spirit Ghoul
 MISSING_TRANSLATION:cursedcronespiritghoul=Spirit Ghoul
 MISSING_TRANSLATION:spirittornado=Spirit Tornado
+
+// Hostile raid mobs
 MISSING_TRANSLATION:humanraider=Raider
 MISSING_TRANSLATION:fishianraider=Fishian Raider
 MISSING_TRANSLATION:ninjaraider=Ninja
@@ -3272,6 +3309,8 @@ MISSING_TRANSLATION:crystalarmadillo=Crystal Armadillo
 MISSING_TRANSLATION:fishianhookwarrior=Fishian Hook Warrior
 MISSING_TRANSLATION:fishianhealer=Fishian Healer
 MISSING_TRANSLATION:staticjellyfish=Static Jellyfish
+
+// Mini Bosses
 MISSING_TRANSLATION:evilwitch=Evil Witch
 
 // Bosses/minions
@@ -3472,6 +3511,7 @@ MISSING_TRANSLATION:explorertalk5=I wonder if I'll ever find one of those temple
 MISSING_TRANSLATION:explorertalk6=Remind me to bring water before I leave
 MISSING_TRANSLATION:explorertalk7=Let's be honest, surviving out there is pretty easy
 MISSING_TRANSLATION:explorertalk8=Be careful of traps when exploring
+
 MISSING_TRANSLATION:minertalk1=Where did I leave my ladder this time?
 MISSING_TRANSLATION:minertalk2=Caves are dangerous, best bring a weapon!
 MISSING_TRANSLATION:minertalk3=Cavelings keep running away with my ore!
@@ -3479,6 +3519,7 @@ MISSING_TRANSLATION:minertalk4=Well, I'm running low on torches again
 MISSING_TRANSLATION:minertalk5=I'm an explosive expert! Most days anyway
 MISSING_TRANSLATION:minertalk6=A good pickaxe is key to all things mining!
 MISSING_TRANSLATION:minertalk7=Do you ever use minecarts just for fun?
+
 MISSING_TRANSLATION:friendlywitchtalk1=What are you doing this far out in the swamp?
 MISSING_TRANSLATION:friendlywitchtalk2=This probably wasn't the best place to settle down
 MISSING_TRANSLATION:friendlywitchtalk3=I brew new potions every day, so check back tomorrow!
