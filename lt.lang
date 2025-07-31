@@ -341,35 +341,35 @@ swampcandlestandduo=Dvigubas Pelkių Žvakių Stovas
 brazier=Ugniakuras
 
 // Paintings
-MISSING_TRANSLATION:paintingbroken=Broken Painting
-MISSING_TRANSLATION:paintingapple=Apple Painting
-MISSING_TRANSLATION:paintingavocado=Avocado Painting
-MISSING_TRANSLATION:paintingbanana=Banana Painting
-MISSING_TRANSLATION:paintingabstract=Abstract Painting
-MISSING_TRANSLATION:paintingrainsun=Rainy Day Painting
-MISSING_TRANSLATION:paintingheart=Heart Painting
-MISSING_TRANSLATION:paintingdagger=Dagger Painting
-MISSING_TRANSLATION:paintingeye=Suspicious Painting
-MISSING_TRANSLATION:paintingmouse=Mouse Painting
-MISSING_TRANSLATION:paintingparrot=Parrot Painting
-MISSING_TRANSLATION:paintingduck=Duck Painting
-MISSING_TRANSLATION:paintingcastle=Castle Painting
-MISSING_TRANSLATION:paintingstonecaveling=Stone Caveling Painting
-MISSING_TRANSLATION:paintingsnowcaveling=Snow Stone Caveling Painting
-MISSING_TRANSLATION:paintingswampcaveling=Swamp Stone Caveling Painting
-MISSING_TRANSLATION:paintingsandstonecaveling=Sand Stone Caveling Painting
-MISSING_TRANSLATION:paintinglargeworldmap=Large Painting Of Strange Lands
-MISSING_TRANSLATION:paintinglargeship=Large Ship Painting
-MISSING_TRANSLATION:paintinglargecastle=Large Castle Painting
-MISSING_TRANSLATION:paintinglargeabstract=Large Abstract Painting
-MISSING_TRANSLATION:paintingelder=Wise Painting
-MISSING_TRANSLATION:paintingcooljonas=Cool Painting
-MISSING_TRANSLATION:paintingposter=Happy Poster
+paintingbroken=Lūžęs Paveikslas
+paintingapple=Obuolio Paveikslas
+paintingavocado=Avokado Paveikslas
+paintingbanana=Banano Paveikslas
+paintingabstract=Abstraktus Paveikslas
+paintingrainsun=Lietingos Dienos Paveikslas
+paintingheart=Širdelės Paveikslas
+paintingdagger=Durklo Paveikslas
+paintingeye=Įtartinas Paveikslas
+paintingmouse=Pelės Paveikslas
+paintingparrot=Papūgos Paveikslas
+paintingduck=Anties Paveikslas
+paintingcastle=Pilies Paveikslas
+paintingstonecaveling=Akmens Urvažmogio Paveikslas
+paintingsnowcaveling=Sniego Akmens Urvažmogio Paveikslas
+paintingswampcaveling=Pelkių Akmens Urvažmogio Paveikslas
+paintingsandstonecaveling=Smiltainio Urvažmogio Paveikslas
+paintinglargeworldmap=Didelis Keistų Kraštų Paveikslas
+paintinglargeship=Didelis Laivo Paveikslas
+paintinglargecastle=Didelis Pilies Paveikslas
+paintinglargeabstract=Didelis Abstraktus Paveikslas
+paintingelder=Išmintingas Paveikslas
+paintingcooljonas=Kietas Paveikslas
+paintingposter=Laimingas Plakatas
 
 // Statues
-MISSING_TRANSLATION:mossymonkstatue=Moss Covered Monk Statue
-MISSING_TRANSLATION:angelicstatue=Angelic Statue
-MISSING_TRANSLATION:hoodedknightstatue=Hooded Knight Statue
+mossymonkstatue=Apsamanojusi Vienuolio Statula
+angelicstatue=Angeliška Statula
+hoodedknightstatue=Paslaptingo Riterio Statula
 
 // Misc
 sign=Ženklas
