@@ -778,7 +778,7 @@ carrotseed=Morkų Sėklos
 onionseed=Svogūnų Sėklos
 pumpkinseed=Moliūgų Sėklos
 strawberryseed=Braškių Sėklos
-MISSING_TRANSLATION:beetseed=Beet Seeds
+beetseed=Burokų Sėklos
 coffeebeans=Kavos Pupelės
 
 // Flowers / Alchemy
@@ -797,11 +797,11 @@ mushroomflower=Grybo Gėlė
 caveglowsprout=Švytinčios Urvagėlės Daigas
 wildcaveglow=Laukinė Švytinti Urvagėlė
 caveglow=Švytinti Urvagėlė
-MISSING_TRANSLATION:yellowflowerpatch=Yellow Flower Patch
-MISSING_TRANSLATION:redflowerpatch=Red Flower Patch
-MISSING_TRANSLATION:purpleflowerpatch=Purple Flower Patch
-MISSING_TRANSLATION:blueflowerpatch=Blue Flower Patch
-MISSING_TRANSLATION:whiteflowerpatch=White Flower Patch
+yellowflowerpatch=Geltonos Gėlės
+redflowerpatch=Raudonos Gėlės
+purpleflowerpatch=Violetinės Gėlės
+blueflowerpatch=Mėlynos Gėlės
+whiteflowerpatch=Baltos Gėlės
 
 // Processing
 campfire=Laužas
