@@ -1113,7 +1113,7 @@ brokencoppertool=Lūžęs Varinis Įrankis
 brokenirontool=Lūžęs Geležinis Įrankis
 
 // Pickaxes
-MISSING_TRANSLATION:pickaxe=Pickaxe
+pickaxe=Kirtiklis
 woodpickaxe=Medinis Kirtiklis
 copperpickaxe=Varinis Kirtiklis
 ironpickaxe=Geležinis Kirtiklis
@@ -1123,13 +1123,13 @@ demonicpickaxe=Demoniškas Kirtiklis
 ivypickaxe=Gebenės Kirtiklis
 tungstenpickaxe=Volframo Kirtiklis
 glacialpickaxe=Ledyno Kirtiklis
-MISSING_TRANSLATION:dryadpickaxe=Dryad Pickaxe
+dryadpickaxe=Driadžių Kirtiklis
 icepickaxe=Ledo Kirtiklis
 myceliumpickaxe=Grybienos Kirtiklis
 ancientfossilpickaxe=Senovės Fosilijos Kirtiklis
 
 // Axes
-MISSING_TRANSLATION:axe=Axe
+axe=Kirvis
 woodaxe=Medinis Kirvis
 copperaxe=Varinis Kirvis
 ironaxe=Geležinis Kirvis
@@ -1139,12 +1139,12 @@ demonicaxe=Demoniškas Kirvis
 ivyaxe=Gebenės Kirvis
 tungstenaxe=Volframo Kirvis
 glacialaxe=Ledo Kirvis
-MISSING_TRANSLATION:dryadaxe=Dryad Axe
+dryadaxe=Driadžių Kirvis
 myceliumaxe=Grybienos Kirvis
 ancientfossilaxe=Senovės Fosilijos Kirvis
 
 // Shovels
-MISSING_TRANSLATION:shovel=Shovel
+shovel=Kastuvas
 woodshovel=Medinis Kastuvas
 coppershovel=Varinis Kastuvas
 ironshovel=Geležinis Kastuvas
@@ -1154,12 +1154,12 @@ ivyshovel=Gebenės Kastuvas
 demonicshovel=Demoniškas Kastuvas
 tungstenshovel=Volframo Kastuvas
 glacialshovel=Ledyno Kastuvas
-MISSING_TRANSLATION:dryadshovel=Dryad Shovel
+dryadshovel=Driadžių Kastuvas
 myceliumshovel=Grybienos Kastuvas
 ancientfossilshovel=Senovės Fosilijos Kastuvas
 
 // Fishing rods
-MISSING_TRANSLATION:fishingrod=Fishing Rod
+fishingrod=Meškerė
 godrod=Dieviška Meškerė
 woodfishingrod=Medinė Meškerė
 ironfishingrod=Geležinė Meškerė
@@ -1168,11 +1168,11 @@ goldfishingrod=Auksinė Meškerė
 depthscatcher=Gelmių Gaudyklė
 
 // Bait
-MISSING_TRANSLATION:bait=Bait
+bait=Masalas
 godbait=Dieviškas Masalas
-wormbait=Sliekų Masalas
+wormbait=Sliekas
 swamplarva=Pelkių Lervos
-anglersbait=Žvejų Masalas
+anglersbait=Žvejo Masalas
 
 // Misc tools
 sickle=Pjautuvas
@@ -1181,13 +1181,13 @@ wrench=Veržliaraktis
 cutter=Pjaustyklė
 wire=Laidas
 net=Tinklas
-MISSING_TRANSLATION:multitool=Multi Tool
-MISSING_TRANSLATION:eraser=Eraser
-MISSING_TRANSLATION:pipette=Pipette
-MISSING_TRANSLATION:sword=Sword
-MISSING_TRANSLATION:closerangeweapon=Close Range Weapon
-MISSING_TRANSLATION:meleeweapon=Melee Weapon
-MISSING_TRANSLATION:incursioncloserangeweapon=Incursion Close Range Weapon
+multitool=Daugiafunkcinis Įrankis
+eraser=Trintukas
+pipette=Pipetė
+sword=Kardas
+closerangeweapon=Artimo Nuotolio Ginklas
+meleeweapon=Kirstynių Ginklas
+incursioncloserangeweapon=Antpuolio Artimo Nuotolio Ginklas
 
 // Swords
 woodsword=Medinis Kardas
