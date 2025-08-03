@@ -958,15 +958,15 @@ orgate=OR Vartai
 norgate=NOR Vartai
 xorgate=XOR Vartai
 tflipflopgate=T flip-flop Vartai
-srlatchgate=SR Vartai su Skląsčiu
+srlatchgate=SR Latch Vartai
 countergate=Vartai su Skaitikliu
 timergate=Vartai su Laikmačiu
 buffergate=Vartai su Buferiu
 delaygate=Vartai su Uždelsimu
 sensorgate=Vartai su Jutikliu
-soundgate=Vartai su Garsu
-MISSING_TRANSLATION:countdowngate=Countdown Gate
-MISSING_TRANSLATION:countdownrelay=Countdown Relay
+soundgate=Vartai Garsui Leisti
+countdowngate=Atgalinio Laikmačio Vartai
+countdownrelay=Atgalinio Laikmačio Relė
 
 [logictooltips]
 logicinputs=Įvestys: <value>
@@ -992,11 +992,11 @@ timercurrent=Laikmatis: <value>
 timeractive=Veikia
 timerinactive=Neveikia
 soundbass=Bosas
-MISSING_TRANSLATION:soundhat=Hat
-MISSING_TRANSLATION:soundkick=Kick
+soundhat=Hetas
+soundkick=Kikas
 soundpiano=Pianinas
-MISSING_TRANSLATION:soundsnare=Snare
-MISSING_TRANSLATION:soundnone=N/A
+soundsnare=Solinukas
+soundnone=Nėra
 soundname=Garsas: <name>
 soundsemitone=Pustonis: <value>
 
