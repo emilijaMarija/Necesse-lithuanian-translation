@@ -1196,43 +1196,43 @@ ironsword=Geležinis Kardas
 goldsword=Auksinis Kardas
 frostsword=Šerkšno Kardas
 nunchucks=Nunčiakai
-MISSING_TRANSLATION:katana=Katana
+SAME_TRANSLATION:katana=Katana
 heavyhammer=Sunkus Plaktukas
 lightninghammer=Žaibo Plaktukas
 demonicsword=Demoniškas Kardas
 spiderclaw=Voro Nagas
 ivysword=Gebenės Kardas
 cutlass=Trumpas Kardas
-MISSING_TRANSLATION:amethystsword=Amethyst Sword
-MISSING_TRANSLATION:reinforcedkatana=Reinforced Katana
+amethystsword=Ametisto Kardas
+reinforcedkatana=Armuota Katana
 tungstensword=Volframo Kardas
 reaperscythe=Giltinės Pjautuvas
-MISSING_TRANSLATION:barkblade=Bark Blade
-MISSING_TRANSLATION:sandknife=Sand Knife
+barkblade=Žievės Ašmuo
+sandknife=Smėlio Peilis
 venomslasher=Nuodų Pjautuvas
 antiquesword=Antikvarinis Kardas
-MISSING_TRANSLATION:bloodclaw=Blood Claw
-MISSING_TRANSLATION:thecrimsonsky=The Crimson Sky
-MISSING_TRANSLATION:causticexecutioner=Caustic Executioner
-MISSING_TRANSLATION:gemstonelongsword=Gemstone Longsword
-MISSING_TRANSLATION:greatsword=Greatsword
-MISSING_TRANSLATION:incursiongreatsword=Incursion Greatsword
+bloodclaw=Kraujo Letena
+thecrimsonsky=Raudonasis Dangus
+causticexecutioner=Kaustinis Budelis
+gemstonelongsword=Brangakmenių Kalavijas
+greatsword=Kalavijas
+incursiongreatsword=Antpuolio Kalavijas
 
 // Greatswords
 irongreatsword=Geležinis Kalavijas
 frostgreatsword=Šerkšno Kalavijas
-MISSING_TRANSLATION:brutesbattleaxe=Brute's Battleaxe
-MISSING_TRANSLATION:necroticgreatsword=Necrotic Greatsword
+brutesbattleaxe=Barbaro Kovos Kirvis
+necroticgreatsword=Nekrozinis Kalavijas
 ivygreatsword=Gebenės Kalavijas
 quartzgreatsword=Kvarco Kalavijas
 glacialgreatsword=Ledyno Kalavijas
-MISSING_TRANSLATION:dryadgreathammer=Dryad Greathammer
-MISSING_TRANSLATION:slimegreatsword=Slime Greatsword
-MISSING_TRANSLATION:ravenwinggreatsword=Ravenwing Greatsword
+dryadgreathammer=Driadžių Kovos Plaktukas
+slimegreatsword=Gleivių Kalavijas
+ravenwinggreatsword=Kranklio Sparno Kalavijas
 
 // Spears
-MISSING_TRANSLATION:spear=Spear
-MISSING_TRANSLATION:incursionspear=Incursion Spear
+spear=Ietis
+incursionspear=Antpuolio Ietis
 woodspear=Medinė Ietis
 copperpitchfork=Varinės Šakės
 copperspear=Varinė Ietis
@@ -1245,16 +1245,16 @@ ivyspear=Gebenės Ietis
 vulturestalon=Grifo Iltis
 tungstenspear=Volframo Ietis
 cryospear=Krio Ietis
-MISSING_TRANSLATION:ravenbeakspear=Ravenbeak Spear
+ravenbeakspear=Kranklio Snapo Ietis
 
 // Glaives
-MISSING_TRANSLATION:glaive=Glaive
-MISSING_TRANSLATION:incursionglaive=Incursion Glaive
-goldglaive=Auksinis Durklas
-frostglaive=Šerkšno Durklas
-quartzglaive=Kvarco Durklas
-cryoglaive=Krio Durklas
-MISSING_TRANSLATION:slimeglaive=Slime Glaive
+glaive=Gleivas
+incursionglaive=Antpuolio Gleivas
+goldglaive=Auksinis Gleivas
+frostglaive=Šerkšno Gleivas
+quartzglaive=Kvarco Gleivas
+cryoglaive=Krio Gleivas
+slimeglaive=Gleivių Gleivas
 
 // Bows
 MISSING_TRANSLATION:rangedweapon=Ranged Weapon
