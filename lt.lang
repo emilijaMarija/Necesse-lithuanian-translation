@@ -1257,39 +1257,39 @@ cryoglaive=Krio Gleivas
 slimeglaive=Gleivių Gleivas
 
 // Bows
-MISSING_TRANSLATION:rangedweapon=Ranged Weapon
-MISSING_TRANSLATION:bow=Bow
-MISSING_TRANSLATION:incursionbow=Incursion Bow
+rangedweapon=Nuotolinis Ginklas
+bow=Lankas
+incursionbow=Antpuolio Lankas
 woodbow=Medinis Lankas
 copperbow=Varinis Lankas
 ironbow=Geležinis Lankas
 goldbow=Auksinis Lankas
 frostbow=Šerkšno Lankas
-MISSING_TRANSLATION:captorsshortbow=Captor's Shortbow
+captorsshortbow=Pagrobėjo Trumpasis Lankas
 demonicbow=Demoniškas Lankas
 ivybow=Gebenės Lankas 
-vulturesburst=Grifo Sprogmuo
+vulturesburst=Grifo Sprogimas
 tungstenbow=Volframo Lankas
 glacialbow=Ledyno Lankas
-MISSING_TRANSLATION:dryadbow=Dryad Bow
+dryadbow=Driadžių Lankas
 bowofdualism=Dualizmo Lankas
 antiquebow=Antikvarinis Lankas
-MISSING_TRANSLATION:arachnidwebbow=Arachnid Web Bow
+arachnidwebbow=Voragyvio Tinklo Lankas
 
 // Greatbows
-MISSING_TRANSLATION:greatbow=Greatbow
-MISSING_TRANSLATION:incursiongreatbow=Incursion Greatbow
+greatbow=Didysis Lankas
+incursiongreatbow=Antpuolio Didysis Lankas
 goldgreatbow=Auksinis Didysis Lankas
 voidgreatbow=Tuštumos Didysis Lankas
 ivygreatbow=Gebenės Didysis Lankas
 tungstengreatbow=Volframo Didysis Lankas
 myceliumgreatbow=Grybienos Didysis Lankas
 druidsgreatbow=Druido Didysis Lankas
-MISSING_TRANSLATION:nightpiercer=Night Piercer
-MISSING_TRANSLATION:theravensnest=The Raven's Nest
+nightpiercer=Nakties Skrodiklis
+theravensnest=Kranklio Lizdas
 
 // Arrows
-MISSING_TRANSLATION:arrow=Arrow
+arrow=Strėlė
 stonearrow=Akmeninė Strėlė
 firearrow=Ugninė Strėlė
 frostarrow=Šerkšno Strėlė
@@ -1297,35 +1297,35 @@ poisonarrow=Nuodų Strėlė
 bouncingarrow=Atšokanti Strėlė
 ironarrow=Geležinė Strėlė
 bonearrow=Kaulo Strėlė
-MISSING_TRANSLATION:spideritearrow=Spiderite Arrow
+spideritearrow=Vorito Strėlė
 
 // Guns
-MISSING_TRANSLATION:gun=Gun
-MISSING_TRANSLATION:incursiongun=Incursion Gun
+gun=Šautuvas
+incursiongun=Antpuolio Šautuvas
 handgun=Pistoletas
-MISSING_TRANSLATION:sapphirerevolver=Sapphire Revolver
+sapphirerevolver=Safyro Revolveris
 webbedgun=Voratinklio Šautuvas
-MISSING_TRANSLATION:sniperrifle=Sniper Rifle
-MISSING_TRANSLATION:machinegun=Machine Gun
-MISSING_TRANSLATION:shotgun=Shotgun
-MISSING_TRANSLATION:flintlock=Flintlock
+sniperrifle=Snaiperio Šautuvas
+machinegun=Kulkosvaidis
+shotgun=Lygiavamzdis Šautuvas
+flintlock=Titnaginis Šautuvas
 handcannon=Rankinė Patranka
-MISSING_TRANSLATION:deathripper=Death Ripper
-MISSING_TRANSLATION:cryoblaster=Cryo Blaster
-MISSING_TRANSLATION:livingshotty=Living Shotty
+deathripper=Mirties Plėšytojas
+cryoblaster=Krio Sprogdintojas
+livingshotty=Gyvas Šautuvas
 antiquerifle=Antikvarinis Šautuvas
-MISSING_TRANSLATION:shardcannon=Shard Cannon
-MISSING_TRANSLATION:snowlauncher=Snow Launcher
-MISSING_TRANSLATION:seedgun=Seed Gun
+shardcannon=Šukių Patranka
+snowlauncher=Sniegosvaidis
+seedgun=Sėklų Šautuvas
 
 // Bullets
-MISSING_TRANSLATION:bullet=Bullet
-simplebullet=Paprastas Šovinys
-frostbullet=Šerkšno Šovinys
-bouncingbullet=Atšokantis Šovinys
-voidbullet=Tuštumos Šovinys
+bullet=Kulka
+simplebullet=Paprasta Kulka
+frostbullet=Šerkšno Kulka
+bouncingbullet=Atšokanti Kulka
+voidbullet=Tuštumos Kulka
 cannonball=Patrankos Sviedinys
-MISSING_TRANSLATION:crystalbullet=Crystal Bullet
+crystalbullet=Kristalo Kulka
 
 // Magic weapons
 MISSING_TRANSLATION:magicweapon=Magic Weapon
