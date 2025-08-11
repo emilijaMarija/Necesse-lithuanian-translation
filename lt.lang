@@ -1418,14 +1418,14 @@ crystallizedskull=Kristalizavusi Kaukolė
 dryadbranch=Driadžių Šaka
  
 // Banners
-MISSING_TRANSLATION:bannerofspeed=Banner of Speed
-MISSING_TRANSLATION:bannerofdamage=Banner of Damage
-MISSING_TRANSLATION:bannerofsummonspeed=Banner of Summon Speed
-MISSING_TRANSLATION:bannerofdefense=Banner of Defense
+bannerofspeed=Greičio Vėliava
+bannerofdamage=Žalos Vėliava
+bannerofsummonspeed=Iškvietos Greičio Vėliava
+bannerofdefense=Gynybos Vėliava
 
 // Misc weapons
-MISSING_TRANSLATION:forceofwind=Force of Wind
-MISSING_TRANSLATION:blinkscepter=Blink Scepter
+forceofwind=Vėjo Jėga
+blinkscepter=Mirksėjimo Skeptras
 
 // Trinkets
 MISSING_TRANSLATION:trinket=Trinket
