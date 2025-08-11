@@ -847,7 +847,7 @@ rubycluster_small=Mažas Rubino Klasteris
 
 clayrock=Molio Akmuo
 obsidianrock=Obsidiano Akmuo
-rockoreformat=<rock> <ore>
+rockoreformat=<rock> - <ore>
 
 ironore=Geležies Rūda
 copperore=Vario Rūda
