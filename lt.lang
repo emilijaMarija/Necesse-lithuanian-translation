@@ -1395,28 +1395,28 @@ butcherscleaver=Mėsininko Kapoklė
 snowball=Sniego Gniūžtė
 
 // Summon weapons
-MISSING_TRANSLATION:summonweapon=Summon Weapon
-MISSING_TRANSLATION:incursionsummonweapon=Incursion Summon Weapon
-MISSING_TRANSLATION:brainonastick=Brain on a Stick
-MISSING_TRANSLATION:spiderstaff=Spider Staff
-MISSING_TRANSLATION:frostpiercer=Frost Piercer
-MISSING_TRANSLATION:magicbranch=Magic Branch
-MISSING_TRANSLATION:sentientsword=Sentient Sword
-MISSING_TRANSLATION:slimecanister=Slime Canister
-MISSING_TRANSLATION:necroticbow=Nectrotic Bow
-MISSING_TRANSLATION:stabbybush=Stabby Bush
-MISSING_TRANSLATION:vulturestaff=Vulture Staff
-MISSING_TRANSLATION:rubyshields=Ruby Shields
-MISSING_TRANSLATION:cryostaff=Cryo Staff
-MISSING_TRANSLATION:phantomcaller=Phantom Caller
-MISSING_TRANSLATION:reaperscall=Reapers Call
-MISSING_TRANSLATION:swampsgrasp=Swamps Grasp
-MISSING_TRANSLATION:skeletonstaff=Skeleton Staff
-MISSING_TRANSLATION:orbofslimes=Orb of Slimes
-MISSING_TRANSLATION:empresscommand=Empress' Command
-MISSING_TRANSLATION:crystallizedskull=Crystallized Skull
-MISSING_TRANSLATION:dryadbranch=Dryad Branch
-
+summonweapon=Iškvietos Ginklas
+incursionsummonweapon=Antpuolio Iškvietos Ginklas
+brainonastick=Smegenys ant Pagaliuko
+spiderstaff=Vorų Lazdelė
+frostpiercer=Šerkšno Skrodiklis
+magicbranch=Magiškoji Šaka
+sentientsword=Gyvas Kardas
+slimecanister=Gleivių Kanistras
+necroticbow=Nekrozinis Lankas
+stabbybush=Duriantis Krūmas
+vulturestaff=Grifo Lazdelė
+rubyshields=Rubino Skydai
+cryostaff=Krio Lazdelė
+phantomcaller=Šmėklos Iškvietimas
+reaperscall=Giltinės Šauksmas
+swampsgrasp=Pelkės Sugriebimas
+skeletonstaff=Skeletų Lazdelė
+orbofslimes=Gleivių Rutulys
+empresscommand=Imperatorės Komanda
+crystallizedskull=Kristalizavusi Kaukolė
+dryadbranch=Driadžių Šaka
+ 
 // Banners
 MISSING_TRANSLATION:bannerofspeed=Banner of Speed
 MISSING_TRANSLATION:bannerofdamage=Banner of Damage
