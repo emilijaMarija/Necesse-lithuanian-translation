@@ -2043,22 +2043,22 @@ wormtooth=Slieko Dantis
 crawlersfoot=Ropotojo Pėda
 
 // Global ingredients
-MISSING_TRANSLATION:anysapling=Any sapling
-MISSING_TRANSLATION:anygrassseed=Any Grass Seed
-MISSING_TRANSLATION:anylog=Any log
-MISSING_TRANSLATION:anystone=Any stone
-MISSING_TRANSLATION:anycommonfish=Any common fish
-MISSING_TRANSLATION:anyrawmeat=Any raw meat
-MISSING_TRANSLATION:bulletuser=Any bullet using gun
-MISSING_TRANSLATION:anycompostable=Any compostable
-MISSING_TRANSLATION:anyfruit=Any fruit
-MISSING_TRANSLATION:anycoolingfuel=Any cooling fuel
-MISSING_TRANSLATION:anytieressence=Any tier <tier> essence
-MISSING_TRANSLATION:anywrappingpaper=Any Wrapping Paper
-MISSING_TRANSLATION:anycookedfood=Any Cooked Food
+anysapling=Bet Koks Sodinukas
+anygrassseed=Bet Kokia Žolės Sėkla
+anylog=Bet Koks Rąstas
+anystone=Bet Koks Akmuo
+anycommonfish=Bet Kokia Dažna Žuvis
+anyrawmeat=Bet Kokia Žalia Mėsa
+bulletuser=Bet Koks Kulkas Naudojantis Ginklas
+anycompostable=Bet Koks Kompostuojamas Daiktas
+anyfruit=Bet Koks Vaisius
+anycoolingfuel=Bet Koks Šaldymo Kuras
+anytieressence=Bet Kuri <tier> Lygio Esencija
+anywrappingpaper=Bet Koks Pakavimo Popierius
+anycookedfood=Bet Koks Keptas Maistas
 
 // Type names
-MISSING_TRANSLATION:unknowntype=???
+unknowntype=???
 
 [itemtooltip]
 // Armor
